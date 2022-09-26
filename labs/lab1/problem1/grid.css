@@ -1,0 +1,12 @@
+.mygridRow {
+    display: flex; 
+    flex-wrap: wrap;
+    border: 1px solid;
+  }
+  
+  .column {
+   
+    flex-grow: .25;
+    border: 1px solid;
+   
+  }
